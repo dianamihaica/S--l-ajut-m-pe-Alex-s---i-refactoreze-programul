@@ -1,4 +1,4 @@
-import sales_operations as so
+import task02modul2.sales_operations as so
 
 sales = {
     "Laptop": 15,
